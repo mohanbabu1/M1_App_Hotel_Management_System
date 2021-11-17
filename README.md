@@ -1,1 +1,1 @@
-# M1_App_Hotel_Management_System
+# M1_Application_Hotel_Management_System
