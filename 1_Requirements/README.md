@@ -53,14 +53,14 @@ This projet will be platform independent.
 ## How:
 This Project will be build by using C language Only.
 
-# Detailed Reuirements:
+# Detailed Requirements:
 ## High Level Requirements:
 
 |ID| Description| Status|
 |--|-----------|------|
-|1 |This Application shall have basic details|sjhlan|
-|--|-----------|------|
-|2 |djisbisiuhu|gcrxef|
+|1 |This Application shall have basic details regarding the customers for booking a room.It takes some details.|future|
+|2 |This Application can viewing the customer details who are booking the room and also change the details also.|future|
+|3 |This Application can delete the record whenever the customer wants to leave.|Future|
 
 
 
