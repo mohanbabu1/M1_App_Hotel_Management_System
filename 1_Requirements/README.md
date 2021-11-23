@@ -27,8 +27,11 @@ further,anyone to view a customer details for the hotel management and also edit
 ## SWOT Analysis;
 
 Strengths of this aplication include understand easily by the customer for booking the room or the exit the system.
+
 The Weakness are the he hotels are losing customers to competition inside and outside the industry.In essence, there’s a limited demographic that the hotel industry can market their services and products to.
+
 Oppurtinities to be like The best news is that every community has a raft of attractions and landmarks worth visiting and also hoteliers have to do is add a little flair to them, and people from all walks of life will journey miles to partake in their beauty. 
+
 Threats would like The hotel industry is still reeling back from the aftermath of the world’s recession. Unfavourable interest rates and low disposable income has cut down dramatically footfall in most hotels across the world.
 
 
