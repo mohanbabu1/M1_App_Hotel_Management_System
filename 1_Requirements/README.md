@@ -56,15 +56,18 @@ This Project will be build by using C language Only.
 # Detailed Reuirements:
 ## High Level Requirements:
 
+```sh
 
 | ID |             Description                                                                                                  |  Status  |
 |----|--------------------------                                                                                                |----------|
-| 1  | [This Application shall have basic details regarding the customers for booking a room.It takes some details.]               Future[PlDb]| 
+| 1  | [This Application shall have basic details regarding the customers for booking a room.It takes some details.]               Future  | 
   
-| 2  | [This Application can viewing the customer details who are booking the room.]                                               Future[[PlGh]|
+| 2  | [This Application can viewing the customer details who are booking the room.]                                               Future  |
 
-| 3  | This Application can delete the record |   future |
-       whenever the customer wants to leave.
+| 3  | [This Application can delete the record whenever the customer wants to leave.]                                              Future  |
+
+```
+
 
 
 
