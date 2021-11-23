@@ -56,9 +56,9 @@ This Project will be build by using C language Only.
 # Detailed Reuirements:
 ## High Level Requirements:
 
-|ID|Description|Status|
+|ID| Description| Status|
 |--|-----------|------|
-|1 |afjdskjfdjj|sjhlan|
+|1 |This Application shall have basic details|sjhlan|
 |--|-----------|------|
 |2 |djisbisiuhu|gcrxef|
 
