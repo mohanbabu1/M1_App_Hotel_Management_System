@@ -55,23 +55,19 @@ This Project will be build by using C language Only.
 
 # Detailed Reuirements:
 ## High Level Requirements:
-'''sh
 
-| ID |             Description                |  Status  |
-|----|--------------------------              |----------|
-| 1  | This Application shall have basic      |   future |
-       details regarding the customers for 
-       booking a room.It takes some details.
- 
-| 2  | This Application can viewing the       |   future | 
-       customer details who are booking the  
-       room.
+
+| ID |             Description                                                                                                  |  Status  |
+|----|--------------------------                                                                                                |----------|
+| 1  | [This Application shall have basic details regarding the customers for booking a room.It takes some details.]               Future   
+  
+| 2  | [This Application can viewing the customer details who are booking the room.]                                               Future
 
 | 3  | This Application can delete the record |   future |
        whenever the customer wants to leave.
 
 
-'''
+
 ## Low Level Requirements
 
 
