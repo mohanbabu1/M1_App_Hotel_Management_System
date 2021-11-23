@@ -59,9 +59,9 @@ This Project will be build by using C language Only.
 
 | ID |             Description                                                                                                  |  Status  |
 |----|--------------------------                                                                                                |----------|
-| 1  | [This Application shall have basic details regarding the customers for booking a room.It takes some details.]               Future  | 
+| 1  | [This Application shall have basic details regarding the customers for booking a room.It takes some details.]               Future[PlDb]| 
   
-| 2  | [This Application can viewing the customer details who are booking the room.]                                               Future  |
+| 2  | [This Application can viewing the customer details who are booking the room.]                                               Future[[PlGh]|
 
 | 3  | This Application can delete the record |   future |
        whenever the customer wants to leave.
