@@ -57,26 +57,16 @@ This Project will be build by using C language Only.
 ## High Level Requirements:
 
 |ID| Description| Status|
-|--|-----------|------|
-|1 |This Application shall have basic details regarding the customers for booking a room.It takes some details.|future|
-|2 |This Application can viewing the customer details who are booking the room and also change the details also.|future|
-|3 |This Application can delete the record whenever the customer wants to leave.|Future|
+|--| -----------|------|
+|1 | This Application shall have basic details regarding the customers for booking a room.It takes some details.| Future|
+|2 | This Application can viewing the customer details who are booking the room and also change the details also.| Future|
+|3 | This Application can delete the record whenever the customer wants to leave.|Future|
 
 
 
 ## Low Level Requirements
 
-
-| ID |           Description                  |  Status  |
-|----|----------------------------------------|----------|
-| 1  | This Application can give any wrong    |  future  |
-       information.it shows you can check the 
-       details.
-
-| 2  | This Application once delete the infor-|  future  |
-       -mation.we cannot retrieve them.      
-       
-| 3  | This Application having the records of |  future  |
-       who you want the inforamtion regarding 
-       the customer.
-
+| ID| Description| Status|
+| --|------------|-------|
+| 1 | If anyone give the wrong details in this application. 
+      it tells us u enter the wrong details || Future|
