@@ -69,4 +69,4 @@ This Project will be build by using C language Only.
 | ID| Description| Status|
 | --|------------|-------|
 | 1 | If anyone give the wrong details in this application. 
-      it tells us u enter the wrong details || Future|
+      it tells us u enter the wrong details | Future|
