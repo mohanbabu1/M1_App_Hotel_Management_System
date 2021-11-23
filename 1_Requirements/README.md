@@ -61,14 +61,14 @@ This Project will be build by using C language Only.
 | 1  | This Application shall have basic      |   future |
        details regarding the customers for 
        booking a room.It takes some details.
-|----|----------------------------------------|----------|
+ 
 | 2  | This Application can viewing the       |   future | 
        customer details who are booking the  
        room.
-|----|----------------------------------------|----------|
+
 | 3  | This Application can delete the record |   future |
        whenever the customer wants to leave.
-|----|----------------------------------------|----------|
+
 
 
 ## Low Level Requirements
@@ -79,11 +79,11 @@ This Project will be build by using C language Only.
 | 1  | This Application can give any wrong    |  future  |
        information.it shows you can check the 
        details.
-|----|----------------------------------------|----------|
+
 | 2  | This Application once delete the infor-|  future  |
-       -mation.we cannot retrieve them.       
-|----|----------------------------------------|----------|
-| 3  | This Application having the records of    future
+       -mation.we cannot retrieve them.      
+       
+| 3  | This Application having the records of |  future  |
        who you want the inforamtion regarding 
        the customer.
-|----|----------------------------------------|-----------|
+
