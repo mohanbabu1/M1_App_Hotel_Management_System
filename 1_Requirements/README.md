@@ -60,7 +60,7 @@ This Project will be build by using C language Only.
 |--| -----------|------|
 |1 | This Application shall have basic details regarding the customers for booking a room.It takes some details.| Future|
 |2 | This Application can viewing the customer details who are booking the room and also change the details also.| Future|
-|3 | This Application can delete the record whenever the customer wants to leave.|Future|
+|3 | This Application can delete the record whenever the customer wants to leave.| Future|
 
 
 
@@ -68,5 +68,6 @@ This Project will be build by using C language Only.
 
 | ID| Description| Status|
 | --|------------|-------|
-| 1 | If anyone give the wrong details in this application. 
-      it tells us u enter the wrong details | Future|
+| 1 | If anyone give the wrong details in this application.it tells us u enter the wrong details | Future|
+| 2 | This Application once delete the infor--mation.we cannot retrieve them.                    | Future|
+| 3 | This Application having the records of who you want the inforamtion regarding the customer | Future|
