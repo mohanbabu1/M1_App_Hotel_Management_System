@@ -1,10 +1,10 @@
 # Test Plan:
 
-## High Level Requirements
+## High Level Test Plan
 
 |Test ID|Description            |Exp I/P   | Exp  O/P  |Actual Ouput  |Type of test|
 |-----  |---------------------- |----------|-----------|--------------|------------|
-|H_01   |                       |          |           |              |Requirement Based|
+|H_01   |the user service provider should register with required details|input details |name,details|    pass |Requirement Based|
 |H_02   |                       |          |           |              |Scenario Baesd   |
 |H_03   |                       |          |           |              |Boundary Based   |
 
